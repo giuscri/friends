@@ -1,0 +1,24 @@
+add foo bar 0
+add stack overflow 1
+mfriends 0 1 2015
+
+add cat meow 15
+mfriends 15 1 1987
+
+add what_the heck 8
+add foobarism me 2
+mfriends 8 2 2007
+
+add hello world 12
+mfriends 8 12 2013
+
+add hexa decimal 11
+mfriends 8 11 2008
+
+add hacker who 9
+mfriends 8 9 2016
+
+add lonely boy 3
+
+extract_groups
+#extract_groups since 2008
